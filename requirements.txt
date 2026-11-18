@@ -1,0 +1,4 @@
+discord.py[voice]
+davey==0.1.4
+yt-dlp[default]
+python-dotenv
